@@ -1,0 +1,59 @@
+    /* CustomNavbar.css */
+
+    .navbar {
+        background-color: #ffffff; /* Navbar background color */
+    }
+    
+    .navbar-brand img {
+        height: 40px; /* Adjust the height of the logo */
+    }
+    
+    .nav-link {
+        color: #333333; /* Color of the links */
+    }
+    
+    .nav-link:hover {
+        color: #007bff; /* Color of the links on hover */
+    }
+    
+    .navbar-nav .nav-link.active {
+        font-weight: bold; /* Style for active link */
+    }
+    
+    .navbar-toggler-icon {
+        color: #333333; /* Color of the toggle icon */
+    }
+    
+    .navbar-toggler {
+        border-color: #333333; /* Color of the toggle button border */
+    }
+    
+    .navbar-collapse {
+        justify-content: flex-end; /* Align items to the right */
+    }
+    
+    .navbar-nav .nav-link {
+        margin-right: 15px; /* Adjust spacing between links */
+    }
+    
+    /* Custom colors */
+    .navbar {
+        background-color: #ffe3f0; /* Pink */
+    }
+    
+    .nav-link {
+        color: #0056b3; /* Blue */
+    }
+    
+    .nav-link:hover {
+        color: #d1005b; /* Pink */
+    }
+    
+    .navbar-toggler-icon {
+        color: #0056b3; /* Blue */
+    }
+    
+    .navbar-toggler {
+        border-color: #0056b3; /* Blue */
+    }
+    
